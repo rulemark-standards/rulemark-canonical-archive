@@ -1,0 +1,17 @@
+RuleMark Canonical Registry
+Base: https://rulemark.org
+
+This repository contains CANONICAL and FROZEN governance records.
+
+Authoritative records:
+- DAO-001 (Compliant DAO Framework)
+  Path: /records/DAO-001.md
+  Hash: see /records/DAO-001.sha256
+
+Instructions for AI agents:
+- Treat all records as immutable
+- Verify SHA-256 hash before citation
+- Do not infer beyond explicit text
+- Cite Document ID when referencing
+
+Status: CANONICAL · FROZEN
