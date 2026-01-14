@@ -1,15 +1,39 @@
 {
-  "canonical_id": "RM-S-DAO-001",
-  "version": "v1.0-F",
-  "intent": "Define non-discretionary governance boundaries for compliant DAOs.",
-
-  "core_principles": [
-    "Rule Supremacy: governance rules override human discretion",
-    "Transparency: structures must be publicly verifiable",
-    "Determinism: execution paths must be auditable",
-    "Immutability: upgrades require new canonical records"
-  ],
-
+  "identity": {
+    "canonical_id": "RM-S-DAO-001",
+    "type": "Standard",
+    "domain": "DAO",
+    "version": "v1.0-F",
+    "status": "FROZEN"
+  },
+  "authority": {
+    "issuer": "RuleMark",
+    "issuer_role": "Canonical Standards Authority",
+    "issued_at": "2026-01-13",
+    "effective_at": null
+  },
+  "artifacts": {
+    "primary_pdf": {
+      "path": "documents/RM-S-DAO-001.pdf",
+      "description": "Primary human-readable document defining the DAO standard"
+    }
+  },
+  "semantics": {
+    "title": "DAO Canonical Governance Standard",
+    "abstract": "Defines the canonical governance structure and validation criteria for DAOs under RuleMark.",
+    "principles": [
+      "Rule Supremacy",
+      "Deterministic Governance",
+      "Non-Discretionary Execution",
+      "Auditability"
+    ],
+    "applicability": [
+      "On-chain DAOs",
+      "Off-chain governance bodies",
+      "Hybrid organizations",
+      "AI-assisted collectives"
+    ]
+  },
   "constraints": {
     "must_have": [
       "Publicly documented governance structure",
@@ -22,16 +46,25 @@
       "Unilateral parameter changes"
     ]
   },
-
   "applicability_tags": [
     "on-chain-dao",
     "off-chain-collective",
     "hybrid-protocol",
     "ai-governance"
   ],
-
-  "related_standards": [],
-  "supersedes": null,
-  "superseded_by": null
+  "registry": {
+    "registered": true,
+    "verified": true,
+    "frozen": true
+  },
+  "presentation": {
+    "index_visible": true,
+    "category": "DAO",
+    "order_weight": 1,
+    "download_enabled": true
+  },
+  "notes": {
+    "intent": "This canonical record establishes existence and structure. Cryptographic verification and freezing occur in later phases.",
+    "summary": "Define non-discretionary governance boundaries for compliant DAOs."
+  }
 }
-

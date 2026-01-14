@@ -1,6 +1,7 @@
 {
   "registry_meta": {
     "schema_version": "1.0",
+    "authority": "sole_source_of_truth",
     "name": "RuleMark Canonical Registry",
     "updated_at_utc": "2026-01-12T18:30:00Z",
     "maintainer": "RuleMark Architecture",
@@ -9,11 +10,11 @@
   },
   "standards": [
     {
-      "id": "RM-S-DAO-001",
-      "type": "STANDARD",
+      "canonical_id": "RM-S-DAO-001",
       "status": "FROZEN",
       "version": "v1.0-F",
       "title": "Compliant DAO Framework",
+      "path": "machine/RM-S-DAO-001.json",
       "locations": {
         "human_view": "https://rulemark.org/standards/RM-S-DAO-001",
         "machine_read": "https://records.rulemark.org/machine/RM-S-DAO-001.json",
@@ -27,4 +28,3 @@
     }
   ]
 }
-
