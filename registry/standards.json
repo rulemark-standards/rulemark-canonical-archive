@@ -25,6 +25,14 @@
         "file_hash": "e987f1b72ce44ae76bcc4208424704f9911b775f2324323fa222b7746d7bbeb2",
         "signature_ref": "https://records.rulemark.org/standards/RM-S-DAO-001.sig"
       }
+    },
+    {
+      "canonical_id": "RM-S-EXEC-AI-001",
+      "version": "v1.0-F",
+      "status": "FROZEN",
+      "title": "AI Tool Delivery Accountability Standard",
+      "machine_path": "/machine/RM-S-EXEC-AI-001.json",
+      "document_path": "/documents/RM-S-EXEC-AI-001.pdf"
     }
   ]
 }
