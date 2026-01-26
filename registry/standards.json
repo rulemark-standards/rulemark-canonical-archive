@@ -5,8 +5,8 @@
     "name": "RuleMark Canonical Registry",
     "updated_at_utc": "2026-01-26T00:00:00Z",
     "maintainer": "RuleMark Architecture",
-    "total_standards": 2,
-    "total_frozen": 2
+    "total_standards": 4,
+    "total_frozen": 4
   },
   "standards": [
     {
@@ -14,31 +14,39 @@
       "status": "FROZEN",
       "version": "v1.0-F",
       "title": "Compliant DAO Framework",
-      "path": "machine/RM-S-DAO-001.json",
       "locations": {
         "human_view": "https://rulemark.org/standards/RM-S-DAO-001",
-        "machine_read": "https://records.rulemark.org/machine/RM-S-DAO-001.json",
         "canonical_file": "https://records.rulemark.org/RM-S-DAO-001.pdf"
-      },
-      "verification": {
-        "hash_algo": "sha256",
-        "file_hash": "e987f1b72ce44ae76bcc4208424704f9911b775f2324323fa222b7746d7bbeb2",
-        "signature_ref": "https://records.rulemark.org/RM-S-DAO-001.sig"
       }
     },
     {
       "canonical_id": "RM-S-EXEC-AI-001",
-      "version": "v1.0-F",
       "status": "FROZEN",
+      "version": "v1.0-F",
       "title": "AI Tool Delivery Accountability Standard",
       "locations": {
         "human_view": "https://rulemark.org/standards/RM-S-EXEC-AI-001",
         "canonical_file": "https://records.rulemark.org/RM-S-EXEC-AI-001.pdf"
-      },
-      "verification": {
-        "hash_algo": "sha256",
-        "file_hash": "待填充",
-        "signature_ref": "https://records.rulemark.org/RM-S-EXEC-AI-001.sig"
+      }
+    },
+    {
+      "canonical_id": "RM-S-DET-AI-001",
+      "status": "FROZEN",
+      "version": "v1.0-F",
+      "title": "AI System Responsibility Boundary",
+      "locations": {
+        "human_view": "https://rulemark.org/standards/RM-S-DET-AI-001",
+        "canonical_file": "https://records.rulemark.org/RuleMark_Determination_AI_System_Responsibility_Boundary_V1.0.pdf"
+      }
+    },
+    {
+      "canonical_id": "RM-S-RWA-001",
+      "status": "FROZEN",
+      "version": "v1.0-F",
+      "title": "RWA Red Line Standard",
+      "locations": {
+        "human_view": "https://rulemark.org/standards/RM-S-RWA-001",
+        "canonical_file": "https://records.rulemark.org/RuleMark_RWA_Red_Line_Standard_V1.pdf"
       }
     }
   ]
