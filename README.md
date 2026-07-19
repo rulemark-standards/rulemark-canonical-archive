@@ -17,6 +17,7 @@ All records are immutable once published.
 Before publishing or modifying a standard, read
 [`docs/PUBLISHING-INTEGRITY-POLICY.md`](docs/PUBLISHING-INTEGRITY-POLICY.md).
 The machine-enforced baseline is [`integrity/standards.json`](integrity/standards.json).
+Public and machine wording follows [`docs/TERMINOLOGY.md`](docs/TERMINOLOGY.md).
 
 All releases must pass the RuleMark Integrity Gate. Frozen PDFs must not be
 edited or regenerated in place.

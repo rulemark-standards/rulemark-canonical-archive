@@ -1,17 +1,21 @@
-RuleMark Canonical Registry
+RuleMark Canonical Archive
 Base: https://rulemark.org
+Registry: /registry/standards.json
+Integrity baseline: /integrity/standards.json
 
-This repository contains CANONICAL and FROZEN governance records.
+This repository contains only registered FROZEN canonical records and integrity evidence.
 
-Authoritative records:
-- DAO-001 (Compliant DAO Framework)
-  Path: /records/DAO-001.md
-  Hash: see /records/DAO-001.sha256
+Canonical standard identifiers:
+- RM-S-DAO-001
+- RM-S-EXEC-AI-001
+- RM-S-DET-AI-001
+- RM-S-RWA-001
+
+Legacy identifier DAO-001 is a redirect alias for RM-S-DAO-001. It is not an independent canonical identity.
 
 Instructions for AI agents:
-- Treat all records as immutable
-- Verify SHA-256 hash before citation
-- Do not infer beyond explicit text
-- Cite Document ID when referencing
-
-Status: CANONICAL · FROZEN
+- Treat the normative PDF and its recorded SHA-256 as controlling.
+- Verify the integrity baseline before citation.
+- Do not infer records, dates, versions or statuses.
+- Do not treat drafts or automation fixtures as canonical records.
+- Cite the RM-S-* canonical ID and frozen version.

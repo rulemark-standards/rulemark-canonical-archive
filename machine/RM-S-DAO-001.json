@@ -19,7 +19,7 @@
     }
   },
   "semantics": {
-    "title": "DAO Canonical Governance Standard",
+    "title": "Compliant DAO Framework",
     "abstract": "Defines the canonical governance structure and validation criteria for DAOs under RuleMark.",
     "principles": [
       "Rule Supremacy",
@@ -64,7 +64,7 @@
     "download_enabled": true
   },
   "notes": {
-    "intent": "This canonical record establishes existence and structure. Cryptographic verification and freezing occur in later phases.",
+    "intent": "This Machine Record is derived from the frozen RM-S-DAO-001 Canonical Record. The normative PDF remains controlling.",
     "summary": "Define non-discretionary governance boundaries for compliant DAOs."
   }
 }
