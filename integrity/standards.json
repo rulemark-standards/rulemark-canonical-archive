@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.0",
+  "policy": "docs/PUBLISHING-INTEGRITY-POLICY.md",
+  "standards": [
+    {
+      "canonical_id": "RM-S-DAO-001",
+      "version": "v1.0-F",
+      "status": "FROZEN",
+      "title": "Compliant DAO Framework",
+      "record_filename": "RM-S-DAO-001.pdf",
+      "canonical_file_url": "https://records.rulemark.org/RM-S-DAO-001.pdf",
+      "sha256": "e987f1b72ce44ae76bcc4208424704f9911b775f2324323fa222b7746d7bbeb2",
+      "bytes": 12410,
+      "pages": 8,
+      "document_publication_date": "December 2025",
+      "registry_issued_at": "2026-01-13",
+      "citation": "RuleMark. Compliant DAO Framework (RM-S-DAO-001, v1.0-F). RuleMark Canonical Standards Registry.",
+      "pdf_identity": {
+        "mode": "title_only_legacy",
+        "required_text": ["Compliant DAO Framework V1", "Version: V1.0 (Frozen)", "Publication Date: December 2025"]
+      },
+      "canonical_document": "documents/RM-S-DAO-001.pdf",
+      "signature": "standards/RM-S-DAO-001.sig"
+    },
+    {
+      "canonical_id": "RM-S-EXEC-AI-001",
+      "version": "v1.0-F",
+      "status": "FROZEN",
+      "title": "AI Tool Delivery Accountability Standard",
+      "record_filename": "RM-S-EXEC-AI-001.pdf",
+      "canonical_file_url": "https://records.rulemark.org/RM-S-EXEC-AI-001.pdf",
+      "sha256": "e7f8f62e5c1c03c04f33449938e390563bff722dc1aad5396190586102cec150",
+      "bytes": 17335,
+      "pages": 11,
+      "document_publication_date": null,
+      "registry_issued_at": "2026-01-13",
+      "citation": "RuleMark. AI Tool Delivery Accountability Standard (RM-S-EXEC-AI-001, v1.0-F). RuleMark Canonical Standards Registry.",
+      "pdf_identity": {
+        "mode": "canonical_id_and_title",
+        "required_text": ["RM-S-EXEC-AI-001", "AI Tool Delivery Accountability Standard"]
+      },
+      "canonical_document": "documents/RM-S-EXEC-AI-001.pdf",
+      "signature": null
+    },
+    {
+      "canonical_id": "RM-S-DET-AI-001",
+      "version": "v1.0-F",
+      "status": "FROZEN",
+      "title": "AI System Responsibility Boundary",
+      "record_filename": "RuleMark_Determination_AI_System_Responsibility_Boundary_V1.0.pdf",
+      "canonical_alias_filename": "RM-S-DET-AI-001.pdf",
+      "canonical_file_url": "https://records.rulemark.org/RuleMark_Determination_AI_System_Responsibility_Boundary_V1.0.pdf",
+      "sha256": "5ac0ad3c5f035bdc0a9fd6e04a99c7419625758d024bad4aac199b68b41f1634",
+      "bytes": 65815,
+      "pages": 4,
+      "document_publication_date": null,
+      "registry_issued_at": null,
+      "citation": "RuleMark. AI System Responsibility Boundary (RM-S-DET-AI-001, v1.0-F). RuleMark Canonical Standards Registry.",
+      "pdf_identity": {
+        "mode": "title_only_legacy",
+        "required_text": ["AI System Responsibility Boundary"]
+      },
+      "canonical_document": null,
+      "signature": null
+    },
+    {
+      "canonical_id": "RM-S-RWA-001",
+      "version": "v1.0-F",
+      "status": "FROZEN",
+      "title": "RWA Red Line Standard",
+      "record_filename": "RuleMark_RWA_Red_Line_Standard_V1.pdf",
+      "canonical_alias_filename": "RM-S-RWA-001.pdf",
+      "canonical_file_url": "https://records.rulemark.org/RuleMark_RWA_Red_Line_Standard_V1.pdf",
+      "sha256": "d2181da158bfb515a540591562f3a1dc31a08080f5d959abc22d88af898d677e",
+      "bytes": 8861,
+      "pages": 7,
+      "document_publication_date": "2025-12-20",
+      "registry_issued_at": null,
+      "citation": "RuleMark. RWA Red Line Standard (RM-S-RWA-001, v1.0-F). RuleMark Canonical Standards Registry.",
+      "pdf_identity": {
+        "mode": "title_only_legacy",
+        "required_text": ["RuleMark RWA Red Line Standard", "2025-12-20"]
+      },
+      "canonical_document": null,
+      "signature": null
+    }
+  ]
+}
+
