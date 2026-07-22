@@ -1,0 +1,24 @@
+RM-S-EXCH-001 Exchange Transparency Verification Standard
+Frozen Release Digest Manifest
+==========================================================
+
+Canonical ID:  RM-S-EXCH-001
+Version:       v1.0-F
+Status:        FROZEN
+Published:     2026-07-23
+Effective:     2026-07-23
+Algorithm:     SHA-256
+Normative Artifact: PDF
+
+RM-S-EXCH-001.pdf
+sha256:2f40fe890881956c0d9ecafc2d4fff728eb2190b835b37b43100f8e63fea5999
+bytes:75233
+pages:26
+
+RM-S-EXCH-001.v1.0-F.md
+sha256:64835f642643039965a1acc2619795707e9894143057d37314429e86d9d3e252
+
+rm-s-exch-001-verification-record.schema.json
+sha256:fb463ad96fad9bd9c40337a21776633cde0667ee5ea092187f427824d2e1798c
+
+The PDF identified above is the sole Normative Artifact. Other files are supporting implementation records.

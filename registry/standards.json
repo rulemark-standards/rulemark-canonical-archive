@@ -5,8 +5,8 @@
     "name": "RuleMark Canonical Registry",
     "updated_at_utc": "2026-07-23T00:00:00Z",
     "maintainer": "RuleMark Architecture",
-    "total_standards": 6,
-    "total_frozen": 6
+    "total_standards": 7,
+    "total_frozen": 7
   },
   "standards": [
     {
@@ -67,6 +67,16 @@
       "locations": {
         "human_view": "https://rulemark.org/standards/RM-S-PAY-001",
         "canonical_file": "https://records.rulemark.org/RM-S-PAY-001.pdf"
+      }
+    },
+    {
+      "canonical_id": "RM-S-EXCH-001",
+      "status": "FROZEN",
+      "version": "v1.0-F",
+      "title": "Exchange Transparency Verification Standard",
+      "locations": {
+        "human_view": "https://rulemark.org/standards/RM-S-EXCH-001",
+        "canonical_file": "https://records.rulemark.org/RM-S-EXCH-001.pdf"
       }
     }
   ]
