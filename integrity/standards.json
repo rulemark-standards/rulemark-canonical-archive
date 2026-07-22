@@ -83,7 +83,26 @@
       },
       "canonical_document": null,
       "signature": null
+    },
+    {
+      "canonical_id": "RM-S-STABLE-001",
+      "version": "v1.0-F",
+      "status": "FROZEN",
+      "title": "Stablecoin Trust Verification Standard",
+      "record_filename": "RM-S-STABLE-001.pdf",
+      "canonical_file_url": "https://records.rulemark.org/RM-S-STABLE-001.pdf",
+      "sha256": "c92495c65e45ed986ff8fc3b9c6613220969481dbd958909e5e8c7a1ecacd3c1",
+      "bytes": 66869,
+      "pages": 25,
+      "document_publication_date": "2026-07-22",
+      "registry_issued_at": "2026-07-22",
+      "citation": "RuleMark. Stablecoin Trust Verification Standard (RM-S-STABLE-001, v1.0-F). RuleMark Canonical Standards Registry.",
+      "pdf_identity": {
+        "mode": "canonical_id_and_title",
+        "required_text": ["RM-S-STABLE-001", "Stablecoin Trust Verification Standard", "v1.0-F", "2026-07-22"]
+      },
+      "canonical_document": "documents/RM-S-STABLE-001.pdf",
+      "signature": "standards/RM-S-STABLE-001.sig"
     }
   ]
 }
-

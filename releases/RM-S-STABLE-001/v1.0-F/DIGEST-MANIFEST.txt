@@ -1,0 +1,24 @@
+RM-S-STABLE-001 Stablecoin Trust Verification Standard
+Frozen Release Digest Manifest
+======================================================
+
+Canonical ID:  RM-S-STABLE-001
+Version:       v1.0-F
+Status:        FROZEN
+Published:     2026-07-22
+Effective:     2026-07-22
+Algorithm:     SHA-256
+Normative Artifact: PDF
+
+RM-S-STABLE-001.pdf
+sha256:c92495c65e45ed986ff8fc3b9c6613220969481dbd958909e5e8c7a1ecacd3c1
+bytes:66869
+pages:25
+
+RM-S-STABLE-001.v1.0-F.md
+sha256:90a4b3c7f7c3723d03aaa5f5d8040347d77f77dcf6dfe3d0bd4f8dcebb2b90dc
+
+rm-s-stable-001-verification-record.schema.json
+sha256:d2deda22abd919f0634a6e27577c7cd89dd25817a7392f04f613214d78cf3015
+
+The PDF identified above is the sole Normative Artifact. Other files are supporting implementation records.
