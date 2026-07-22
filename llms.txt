@@ -11,6 +11,7 @@ Canonical standard identifiers:
 - RM-S-DET-AI-001
 - RM-S-RWA-001
 - RM-S-STABLE-001
+- RM-S-PAY-001
 
 Legacy identifier DAO-001 is a redirect alias for RM-S-DAO-001. It is not an independent canonical identity.
 

@@ -1,0 +1,24 @@
+RM-S-PAY-001 Digital Payment Verification Standard
+Frozen Release Digest Manifest
+===================================================
+
+Canonical ID:  RM-S-PAY-001
+Version:       v1.0-F
+Status:        FROZEN
+Published:     2026-07-23
+Effective:     2026-07-23
+Algorithm:     SHA-256
+Normative Artifact: PDF
+
+RM-S-PAY-001.pdf
+sha256:b427f7b6b85bdbaa83a3302cd567c03b3406b86430c4f3926c05468074e8d706
+bytes:80316
+pages:27
+
+RM-S-PAY-001.v1.0-F.md
+sha256:82d04c37b550ed472582ab494d864e3c6a92f982cca75a42d8f7ba929d17d526
+
+rm-s-pay-001-verification-record.schema.json
+sha256:252d761411c739ecd65f291e1c1b01cfe502e3e071dfd24585f91563ddef7c74
+
+The PDF identified above is the sole Normative Artifact. Other files are supporting implementation records.

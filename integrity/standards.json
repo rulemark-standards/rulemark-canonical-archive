@@ -103,6 +103,26 @@
       },
       "canonical_document": "documents/RM-S-STABLE-001.pdf",
       "signature": "standards/RM-S-STABLE-001.sig"
+    },
+    {
+      "canonical_id": "RM-S-PAY-001",
+      "version": "v1.0-F",
+      "status": "FROZEN",
+      "title": "Digital Payment Verification Standard",
+      "record_filename": "RM-S-PAY-001.pdf",
+      "canonical_file_url": "https://records.rulemark.org/RM-S-PAY-001.pdf",
+      "sha256": "b427f7b6b85bdbaa83a3302cd567c03b3406b86430c4f3926c05468074e8d706",
+      "bytes": 80316,
+      "pages": 27,
+      "document_publication_date": "2026-07-23",
+      "registry_issued_at": "2026-07-23",
+      "citation": "RuleMark. Digital Payment Verification Standard (RM-S-PAY-001, v1.0-F). RuleMark Canonical Standards Registry.",
+      "pdf_identity": {
+        "mode": "canonical_id_and_title",
+        "required_text": ["RM-S-PAY-001", "Digital Payment Verification Standard", "v1.0-F", "2026-07-23"]
+      },
+      "canonical_document": "documents/RM-S-PAY-001.pdf",
+      "signature": "standards/RM-S-PAY-001.sig"
     }
   ]
 }

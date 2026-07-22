@@ -3,10 +3,10 @@
     "schema_version": "1.0",
     "authority": "sole_source_of_truth",
     "name": "RuleMark Canonical Registry",
-    "updated_at_utc": "2026-07-22T00:00:00Z",
+    "updated_at_utc": "2026-07-23T00:00:00Z",
     "maintainer": "RuleMark Architecture",
-    "total_standards": 5,
-    "total_frozen": 5
+    "total_standards": 6,
+    "total_frozen": 6
   },
   "standards": [
     {
@@ -57,6 +57,16 @@
       "locations": {
         "human_view": "https://rulemark.org/standards/RM-S-STABLE-001",
         "canonical_file": "https://records.rulemark.org/RM-S-STABLE-001.pdf"
+      }
+    },
+    {
+      "canonical_id": "RM-S-PAY-001",
+      "status": "FROZEN",
+      "version": "v1.0-F",
+      "title": "Digital Payment Verification Standard",
+      "locations": {
+        "human_view": "https://rulemark.org/standards/RM-S-PAY-001",
+        "canonical_file": "https://records.rulemark.org/RM-S-PAY-001.pdf"
       }
     }
   ]

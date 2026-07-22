@@ -1,0 +1,19 @@
+{
+  "canonical_id": "RM-S-PAY-001",
+  "version": "v1.0-F",
+  "status": "FROZEN",
+  "title": "Digital Payment Verification Standard",
+  "domain": "Digital Payment Verification",
+  "issued_at": "2026-07-23",
+  "effective_at": "2026-07-23",
+  "normative_artifact": {
+    "media_type": "application/pdf",
+    "url": "https://records.rulemark.org/RM-S-PAY-001.pdf",
+    "sha256": "b427f7b6b85bdbaa83a3302cd567c03b3406b86430c4f3926c05468074e8d706",
+    "bytes": 80316,
+    "pages": 27,
+    "signature_url": "https://records.rulemark.org/RM-S-PAY-001.sig"
+  },
+  "summary": "Defines deterministic, machine-verifiable requirements for the authenticity, completeness, and re-computability of digital payment records, from authorization through settlement and finality.",
+  "citation": "RuleMark. Digital Payment Verification Standard (RM-S-PAY-001, v1.0-F). RuleMark Canonical Standards Registry."
+}
