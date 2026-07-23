@@ -143,6 +143,26 @@
       },
       "canonical_document": "documents/RM-S-EXCH-001.pdf",
       "signature": "standards/RM-S-EXCH-001.sig"
+    },
+    {
+      "canonical_id": "RM-S-AI-DEL-001",
+      "version": "v1.0-F",
+      "status": "FROZEN",
+      "title": "AI Agent Delegated Authority Verification Standard",
+      "record_filename": "RM-S-AI-DEL-001.pdf",
+      "canonical_file_url": "https://records.rulemark.org/RM-S-AI-DEL-001.pdf",
+      "sha256": "4c65b64eb9cb36f33b13929182bbed84f0459c809f0b7587ce57206b97545537",
+      "bytes": 82191,
+      "pages": 28,
+      "document_publication_date": "2026-07-23",
+      "registry_issued_at": "2026-07-23",
+      "citation": "RuleMark. AI Agent Delegated Authority Verification Standard (RM-S-AI-DEL-001, v1.0-F). RuleMark Canonical Standards Registry.",
+      "pdf_identity": {
+        "mode": "canonical_id_and_title",
+        "required_text": ["RM-S-AI-DEL-001", "AI Agent Delegated Authority Verification Standard", "v1.0-F", "2026-07-23"]
+      },
+      "canonical_document": "documents/RM-S-AI-DEL-001.pdf",
+      "signature": "standards/RM-S-AI-DEL-001.sig"
     }
   ]
 }

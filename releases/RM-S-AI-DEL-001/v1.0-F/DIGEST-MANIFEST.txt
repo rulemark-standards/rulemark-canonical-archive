@@ -1,0 +1,24 @@
+RM-S-AI-DEL-001 AI Agent Delegated Authority Verification Standard
+Frozen Release Digest Manifest
+===============================================================
+
+Canonical ID:  RM-S-AI-DEL-001
+Version:       v1.0-F
+Status:        FROZEN
+Published:     2026-07-23
+Effective:     2026-07-23
+Algorithm:     SHA-256
+Normative Artifact: PDF
+
+RM-S-AI-DEL-001.pdf
+sha256:4c65b64eb9cb36f33b13929182bbed84f0459c809f0b7587ce57206b97545537
+bytes:82191
+pages:28
+
+RM-S-AI-DEL-001.v1.0-F.md
+sha256:a81ada75ae3d6090ec6e1c2e4e12a11a129d2e7f2482c217eb7d192712664b9b
+
+rm-s-ai-del-001-verification-record.schema.json
+sha256:6c70254c5cd867b5e05489e694c3393cd370f92faea048b358ada9c064ad06af
+
+The PDF identified above is the sole Normative Artifact. Other files are supporting implementation records.
